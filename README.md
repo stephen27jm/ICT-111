@@ -13,6 +13,7 @@ Features
 - Reverse the last transaction
 - View transaction history
 - Change password
+- logout option
 
 Language Used
 
@@ -21,7 +22,7 @@ Python
 Purpose
 
 This project demonstrates the use of variables, conditional statements, loops, and linked lists in Python.
- it`s for the purpose of learning and nothing more and nothingless 
+ It`s for the purpose of learning and nothingmore nothingless 
 
 Disclaimer
 
