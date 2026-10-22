@@ -21,6 +21,7 @@ Python
 Purpose
 
 This project demonstrates the use of variables, conditional statements, loops, and linked lists in Python.
+ it`s for the purpose of learning and nothing more and nothingless 
 
 Disclaimer
 
